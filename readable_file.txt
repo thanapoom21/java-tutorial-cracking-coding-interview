@@ -1,0 +1,1 @@
+This is something you can read from Scanner class in Java. It may not be convincing and beautiful but it serves as a building block for a programming journey. Have a wonderful day.
